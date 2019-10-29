@@ -3,8 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="../src/styles/drop.css" />
-        <link rel="stylesheet" href="../src/styles/table.css" />
+        <link rel="stylesheet" href="src/styles/drop.css" />
+        <link rel="stylesheet" href="src/styles/table.css" />
         <title>VCDS Looker</title>
     </head>
     <body>
@@ -69,7 +69,7 @@
                 }
             }
         </script>-->
-        <script src="../public/bundle.js"></script>
+        <script src="bundle.js"></script>
        
     </body>
 </html>
