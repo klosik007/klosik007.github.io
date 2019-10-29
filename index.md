@@ -3,8 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="src/styles/drop.css" />
-        <link rel="stylesheet" href="src/styles/table.css" />
+        <link rel="stylesheet" href="./drop.css" />
+        <link rel="stylesheet" href="./table.css" />
         <title>VCDS Looker</title>
     </head>
     <body>
