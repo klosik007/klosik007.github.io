@@ -10,11 +10,11 @@
     </head>
     <body>
         <div id="app">
-                
+                <p>
             <label for="VAGNum">VAG number</label>
             <form method="POST" action="" id="theForm">
                 <input type="text" id="VAGNum" title="Type VAG number with hyphens inside" pattern="(.{3}\-.{3}\-.{3}($|\-))(.{0,3})" autofocus />
-                
+                <span></span>
             <label for="driverType">Select driver type</label>
             <select id="driverType">
                 <option value="">---Mostly chosen---</option>
@@ -36,7 +36,7 @@
             <input type="button" id="button" value="Collect data" />
         </form>
         </div>
-
+<span></span>
         <script src="../public/bundle.js"></script>
     </body>
 </html>
