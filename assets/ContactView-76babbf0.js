@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as c,e as o}from"./index-f9b6ff16.js";const n={},s=o("h1",null,"This is an contact page",-1),a=[s];function _(r,i){return t(),c("div",null,a)}const d=e(n,[["render",_]]);export{d as default};
